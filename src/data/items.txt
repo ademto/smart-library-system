@@ -1,0 +1,7 @@
+Book|ITM0002|Half of a Yellow Sun|Chimamanda Ngozi Adichie|2006|true|1
+Journal|ITM0007|Nigerian Journal of Literature|Nigerian Academy of Letters|2022|true|0
+Book|ITM0005|Purple Hibiscus|Chimamanda Ngozi Adichie|2003|true|0
+Book|ITM0004|Second Class Citizen|Buchi Emecheta|1974|true|0
+Book|ITM0003|The Famished Road|Ben Okri|1991|true|0
+Magazine|ITM0006|The Guardian Weekend|Guardian Newspapers|2024|true|0
+Book|ITM0001|Things Fall Apart|Chinua Achebe|1958|true|5
